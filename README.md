@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **Physics Engine**
-
 - 👨‍💻 All of my projects are available at [https://github.com/anim1311?tab=repositories](https://github.com/anim1311?tab=repositories)
 
 - 📫 How to reach me **anirudh.madhusudhan@hsrw.org**
