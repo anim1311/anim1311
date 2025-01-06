@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anim1311" alt="anim1311" /></a> </p>
 
-- 🔭 I’m currently working on [Image editor](https://github.com/anim1311/photo-shop-clone)
-
-- 🌱 I’m currently learning **Rust**
+- 🔭 I’m currently working on **PMSMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anim1311?tab=repositories](https://github.com/anim1311?tab=repositories)
 
